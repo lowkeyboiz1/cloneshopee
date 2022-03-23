@@ -1184,6 +1184,7 @@
 .footer-list__apps{
     display: flex;
     padding: 0;
+    cursor: pointer;
 }
 .footer__bottom {
     background-color: #f5f5f5;
